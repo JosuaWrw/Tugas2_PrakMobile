@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class OrderPage extends StatefulWidget {
   final String menu;
   final int price;
-  final String imagePath; // Tambahan: Menampilkan gambar makanan yang dipilih
+  final String imagePath;
 
   const OrderPage(
       {super.key,
